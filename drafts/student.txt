@@ -1,0 +1,9 @@
+class StudentDetails{
+    public.static.void main(){
+        list<Student>li = new LinkedList<>();
+        li = add(new Student("A",9,90));
+        add(new Student("B",8,80));
+        System.out.println(li);
+
+    }
+}
